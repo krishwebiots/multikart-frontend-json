@@ -17,6 +17,10 @@ const nextConfig = {
         protocol: "http",
         hostname: "localhost",
       },
+      {
+        protocol: "https",
+        hostname: "multikart-frontend-json.vercel.app",
+      },
     ],
   },
   module: {
